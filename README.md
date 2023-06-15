@@ -100,7 +100,7 @@ python3 sd-scripts/train_network.py \
 to train lycoris module for SD model
 
 * algo list:
-  * locon: Conventional Methods
+  * locon/lora: Conventional Methods
   * loha: Hadamard product representation introduced by FedPara
   * lokr: Kronecker product representation
   * ia3 : (IA)^3
